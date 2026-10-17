@@ -11,3 +11,4 @@
 ## Kesan dan Pesan
 * **Kesan:** Awalnya sempat bingung waktu pertama kali nyobain perintah-perintah Git di terminal VS Code, tapi setelah dipraktikkan langsung lewat tugas Push to Start ini ternyata lumayan seru dan sangat berguna buat kuliah ke depannya.
 * **Pesan:** Terima kasih banyak buat kakak-kakak panitia INTRIVIA 2026 yang sudah membimbing dan menyiapkan materi ini. Semoga rangkaian acara ke depannya makin seru dan lancar terus!
+* **Motto:** Tetap semangat dan pantang menyerah!
